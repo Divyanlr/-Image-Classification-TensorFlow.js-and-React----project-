@@ -1,4 +1,4 @@
-# -Image-Classification-TensorFlow.js-and-React----project
+# Image-Classification-TensorFlow.js-and-React---project
 
 Build an Image Classification Web App using React.js for the frontend and TensorFlow.js for AI-powered image classification.
 
